@@ -41,3 +41,5 @@
 
 
 15 video is for Array Method   11 folder for code 
+
+16 video is for Object   12 folder for code 
