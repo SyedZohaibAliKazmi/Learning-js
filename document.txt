@@ -1,0 +1,43 @@
+1 video introduction
+2 video setting and code editor
+3 video save work on github
+4 video is for variable , Let Var and Const   01 folde code 
+5 video is for "data Type "                   02 folder code
+6 video of Datatype conversion operation      03 folder code
+
+1 to 6 video Done in Day 1 Date: 25/6/2024
+
+
+=================================================================================================
+
+
+
+7 video is for conversation operation in mathematic  04 folder code
+8 video is for comparison of data type  == no code of this        
+9 video is for  data type summary   05 folder code
+10 video is for stack and heap       06 folder code
+
+
+
+7 to 10 video Done in 1 Day  Date: 01/7/2024  Time 2:16 Am
+
+=====================================================================================================
+
+
+11 video is for string   07 folder for code 
+12 video is for number and maths 08 folder for code 
+
+11 and 12 video is done in 1 day   Date: 2/7/2024  Time:  2:14 Am
+
+==============================================================================================================
+
+13 video is for Date & Time   09 folder for code 
+
+14 video is for Array  10 folder for code 
+
+13 and 14 video is done in day 1   Date:5/7/2024  Time:2:28 Am
+
+=============================================================================================
+
+
+14 video is for Array Method   11 folder for code 
