@@ -67,6 +67,6 @@
 // console.log("B", arr);
      
 
-// const myarr2 = arr.splice(1,3)
+// const myarr2 = arr.splice(0,3)
 // console.log( myarr2)
 // console.log("c", arr);

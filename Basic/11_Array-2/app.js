@@ -42,7 +42,8 @@ const another_array = [1,2,3,4,[5,6,7] ,8, [9,10,11,[12,13], 14]]
 
 const real =  another_array.flat(Infinity)
 
-// console.log(real);
+console.log(real);
+// ===============================================
 
 console.log(Array.isArray("zohaib"));  // ek string ko check karna ya array ha ya nahi uskay liye :isArray 
 //  use hota ha 
