@@ -67,3 +67,9 @@ Date: 8/Aug/2024
 21 video is for "Global and local scope in javascript "  17 folder for code
 
 22 video is for "Scope level and mini hoisting in javascript "  17 folder for code 
+
+23 video is for "THIS and arrow function in javascript"  18 folder for code 
+
+
+
+21 and 23 video is done in day 1    Date: 8/Aug/2024 time AM 
