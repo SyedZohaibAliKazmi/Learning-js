@@ -57,3 +57,13 @@ Date: 7/Aug/2024
 19 video is for Function   15 folder for code 
 
 20 video is for Functions with objects and array   16 folder for code 
+
+19 and 20 video is done im day 1                    Date: 7/Aug/2024
+
+==================\=====================\======================\==================================\
+Date: 8/Aug/2024
+
+
+21 video is for "Global and local scope in javascript "  17 folder for code
+
+22 video is for "Scope level and mini hoisting in javascript "  17 folder for code 
