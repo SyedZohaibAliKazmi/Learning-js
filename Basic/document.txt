@@ -70,6 +70,12 @@ Date: 8/Aug/2024
 
 23 video is for "THIS and arrow function in javascript"  18 folder for code 
 
+24 video is for "Immediately Invoked Function Expressions IIFE "  19 folder for code 
+
+25 video is for "How does javascript execute code + call stack"   20  folder for code 
+
+
+
 
 
 21 and 23 video is done in day 1    Date: 8/Aug/2024 time AM 
