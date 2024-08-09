@@ -92,3 +92,7 @@ Date: 9/Aug/2024
 30 video is for "Filter map and reduce in javascript "  imp video
 
 31 video is for "DOM introduction in javascript "   22  folder for code 
+
+32 video is for "All DOM selectors NodeList and HTMLCollection"   22  folder for code and explain in  browser
+
+33 video is for "How to create a new element in DOM "   22  folder for code and file new "dom.html" 4 mints only
