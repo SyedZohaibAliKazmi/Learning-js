@@ -74,8 +74,21 @@ Date: 8/Aug/2024
 
 25 video is for "How does javascript execute code + call stack"   20  folder for code 
 
+26 video is for "Control flow in javascript in 1 shot"   No  folder for code 
+
+27 video is for "For loop with break and continue in javascript"  21 folder for code 
 
 
+21 and 27 video is done in day 1    Date: 8/Aug/2024 time AM 
 
 
-21 and 23 video is done in day 1    Date: 8/Aug/2024 time AM 
+===================\========================\==========================\================
+
+Date: 9/Aug/2024
+
+
+28 video is for "While and do while loop in Javascript"  
+29 video is for "High Order Array loops"  
+30 video is for "Filter map and reduce in javascript "  imp video
+
+31 video is for "DOM introduction in javascript "   22  folder for code 
