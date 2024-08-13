@@ -102,3 +102,5 @@ Date: 14/Aug/2024
 
 
 33 video is for "How to create a new element in DOM "   22  folder for code and file new "dom.html" 
+
+34 video is for "Edit and remove elements in DOM "   23  folder for code   7:40 par pause ha 
