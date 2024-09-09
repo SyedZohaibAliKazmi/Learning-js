@@ -95,4 +95,14 @@ Date: 9/Aug/2024
 
 32 video is for "All DOM selectors NodeList and HTMLCollection"   22  folder for code and explain in  browser
 
-33 video is for "How to create a new element in DOM "   22  folder for code and file new "dom.html" 4 mints only
+28 and 32 video is done in day 1    Date: 9/Aug/2024 time AM 
+
+==================\=====================\========================\===========================\==============
+Date: 14/Aug/2024
+
+
+33 video is for "How to create a new element in DOM "   22  folder for code and file new "dom.html" 
+
+34 video is for "Edit and remove elements in DOM "   23  folder for code
+
+35 video is for "Lets build 4 javascript projects for beginners "   24  folder for code   
